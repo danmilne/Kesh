@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="1">
+  <advance width="286"/>
+  <unicode hex="0057"/>
+  <outline>
+    <component base="w"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>BCPONC</key>
+      <string>out</string>
+      <key>I_left</key>
+      <integer>17</integer>
+      <key>I_right</key>
+      <integer>12</integer>
+      <key>SBAlt</key>
+      <string>left</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.2546</real>
+        <real>0.67</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+      <key>i_left</key>
+      <integer>-20</integer>
+      <key>i_right</key>
+      <integer>87</integer>
+      <key>w_left</key>
+      <integer>31</integer>
+      <key>w_right</key>
+      <integer>23</integer>
+      <key>y_left</key>
+      <integer>23</integer>
+      <key>y_right</key>
+      <integer>12</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H" format="1">
+  <advance width="369"/>
+  <unicode hex="0048"/>
+  <outline>
+    <component base="h"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>BCPONC</key>
+      <string>in</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.2546</real>
+        <real>0.67</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+      <key>h_left</key>
+      <integer>-34</integer>
+      <key>h_right</key>
+      <integer>31</integer>
+      <key>i_left</key>
+      <integer>-20</integer>
+      <key>i_right</key>
+      <integer>87</integer>
+    </dict>
+  </lib>
+</glyph>

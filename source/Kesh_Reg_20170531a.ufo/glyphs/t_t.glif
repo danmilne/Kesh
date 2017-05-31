@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t_t" format="1">
+  <advance width="462"/>
+  <outline>
+    <component base="t"/>
+    <component base="double" xOffset="23" yOffset="75"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9139</real>
+        <real>0.7769</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

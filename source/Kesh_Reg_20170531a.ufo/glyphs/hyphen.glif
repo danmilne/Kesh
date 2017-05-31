@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen" format="1">
+  <advance width="213"/>
+  <unicode hex="002D"/>
+  <outline>
+    <contour>
+      <point x="233" y="612" type="curve"/>
+      <point x="-78" y="-158" type="line"/>
+      <point x="-78" y="-158"/>
+      <point x="-20" y="-180"/>
+      <point x="-20" y="-180" type="curve"/>
+      <point x="291" y="590" type="line"/>
+      <point x="291" y="590"/>
+      <point x="233" y="612"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>bar_left</key>
+      <integer>96</integer>
+      <key>bar_right</key>
+      <integer>96</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>213.0</real>
+                  <key>y</key>
+                  <integer>700</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>-87.0</real>
+                  <key>y</key>
+                  <integer>-209</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>-87.0</real>
+                  <key>y</key>
+                  <integer>-209</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>-20.0</real>
+                  <key>y</key>
+                  <integer>-209</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>-20.0</real>
+                  <key>y</key>
+                  <integer>-209</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>280.0</real>
+                  <key>y</key>
+                  <integer>700</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>280.0</real>
+                  <key>y</key>
+                  <integer>700</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>213.0</real>
+                  <key>y</key>
+                  <integer>700</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>hyphen</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>213</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.6711</real>
+        <real>0.3246</real>
+        <real>1.0</real>
+      </array>
+      <key>hyphen_left</key>
+      <integer>18</integer>
+      <key>hyphen_right</key>
+      <integer>54</integer>
+      <key>slash_left</key>
+      <integer>18</integer>
+      <key>slash_right</key>
+      <integer>54</integer>
+    </dict>
+  </lib>
+</glyph>

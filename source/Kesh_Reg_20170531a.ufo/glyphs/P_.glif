@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="P" format="1">
+  <advance width="240"/>
+  <unicode hex="0050"/>
+  <outline>
+    <component base="p"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.2546</real>
+        <real>0.67</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+      <key>p_left</key>
+      <integer>58</integer>
+      <key>p_right</key>
+      <integer>58</integer>
+    </dict>
+  </lib>
+</glyph>

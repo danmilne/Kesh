@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I" format="1">
+  <advance width="409"/>
+  <unicode hex="0049"/>
+  <outline>
+    <component base="i"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>BCPONC</key>
+      <string>out</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.2546</real>
+        <real>0.67</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+      <key>i_left</key>
+      <integer>-20</integer>
+      <key>i_right</key>
+      <integer>87</integer>
+    </dict>
+  </lib>
+</glyph>

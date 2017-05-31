@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oacute" format="1">
+  <advance width="482"/>
+  <unicode hex="00D3"/>
+  <outline>
+    <component base="oacute"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>BCPONC</key>
+      <string>in</string>
+      <key>O_left</key>
+      <integer>-57</integer>
+      <key>O_right</key>
+      <integer>47</integer>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>37</integer>
+          <key>y</key>
+          <integer>333</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>681</integer>
+          <key>y</key>
+          <integer>283</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.2048</real>
+        <real>0.6321</real>
+        <real>1.0</real>
+        <real>0.39</real>
+      </array>
+      <key>oacute_left</key>
+      <integer>-61</integer>
+      <key>oacute_right</key>
+      <integer>42</integer>
+    </dict>
+  </lib>
+</glyph>

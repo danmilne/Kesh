@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="1">
+  <advance width="462"/>
+  <unicode hex="0054"/>
+  <outline>
+    <component base="t"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>BCPONC</key>
+      <string>in</string>
+      <key>SBAlt</key>
+      <string>left</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.2546</real>
+        <real>0.67</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+      <key>d_left</key>
+      <integer>-77</integer>
+      <key>d_right</key>
+      <integer>81</integer>
+      <key>h_left</key>
+      <integer>6</integer>
+      <key>h_right</key>
+      <integer>10</integer>
+      <key>k_left</key>
+      <integer>-128</integer>
+      <key>k_right</key>
+      <integer>-118</integer>
+      <key>n_left</key>
+      <integer>31</integer>
+      <key>n_right</key>
+      <integer>10</integer>
+      <key>s_h_left</key>
+      <integer>-77</integer>
+      <key>s_h_right</key>
+      <integer>-56</integer>
+      <key>t_left</key>
+      <integer>81</integer>
+      <key>t_right</key>
+      <integer>-99</integer>
+    </dict>
+  </lib>
+</glyph>

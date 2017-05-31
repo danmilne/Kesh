@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="R" format="1">
+  <advance width="450"/>
+  <unicode hex="0052"/>
+  <outline>
+    <component base="r"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>BCPONC</key>
+      <string>in</string>
+      <key>c_left</key>
+      <integer>-52</integer>
+      <key>c_right</key>
+      <integer>-43</integer>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.2546</real>
+        <real>0.67</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+      <key>r_left</key>
+      <integer>-258</integer>
+      <key>r_right</key>
+      <integer>-55</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K" format="1">
+  <advance width="547"/>
+  <unicode hex="004B"/>
+  <outline>
+    <component base="k"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>BCPONC</key>
+      <string>out</string>
+      <key>SBAlt</key>
+      <string>left</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.2546</real>
+        <real>0.67</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+      <key>h_left</key>
+      <integer>6</integer>
+      <key>h_right</key>
+      <integer>10</integer>
+      <key>k_left</key>
+      <integer>-214</integer>
+      <key>k_right</key>
+      <integer>42</integer>
+      <key>n_left</key>
+      <integer>31</integer>
+      <key>n_right</key>
+      <integer>10</integer>
+    </dict>
+  </lib>
+</glyph>
