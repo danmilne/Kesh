@@ -6,10 +6,12 @@ _by [Emily Floyd](http://workingmodeloftheworld.com/Emily-Floyd) and [Dan Milne]
 
 Kesh Regular was created by artist Emily Floyd in collaboration with Dan Milne from Typelab. The font is a specially designed typeface for Ursula K. Leguin's invented Kesh language. Kesh Regular is an open source font resource. 
 
-Kesh Regular was produced for the occasion of the exhibition A Working Model of the World.
+Kesh Regular was produced for the occasion of the exhibition *A Working Model of the World*.
 
-GLYPH SET
-The glyph set of Kesh Regular is based upon hand drawn glyphs in the appendix of Ursula Le Guin's 'Always Coming Home'. It comprises a lowercase alphabet, assorted ligatures and punctuation.
+========
+
+####GLYPH SET####
+The glyph set of Kesh Regular is based upon hand drawn glyphs in the appendix of Ursula Le Guin's *Always Coming Home*. It comprises a lowercase alphabet, assorted ligatures and punctuation.
 
 USING KESH REGULAR
 Kesh Regular works best in OpenType-savvy applications with the OpenType Ligature feature switched on to allow automatic substitutions. Kesh words spelled phonetically in the Latin script are converted automatically into the Kesh script.
