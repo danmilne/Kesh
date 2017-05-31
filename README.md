@@ -4,14 +4,13 @@ Kesh Regular
 ========
 _by [Emily Floyd](http://workingmodeloftheworld.com/Emily-Floyd) and [Dan Milne](http://typelab.co)_
 
-Kesh Regular Open Source Font designed by Emily Floyd in collaboration with Dan Milne, TypeLab.
-Works on paper printed by Michael Kempson at Cicada Press, University of New South Wales.
+Kesh Regular was created by artist Emily Floyd in collaboration with Dan Milne from TypeLab. Works on paper printed by Michael Kempson at Cicada Press, University of New South Wales.
 
 BACKGROUND
 --------
-Kesh Regular was created by artist Emily Floyd in collaboration with Dan Milne from TypeLab. The font is a specially designed typeface for Ursula K. Leguin’s invented Kesh language. The Kesh are a matriarchal, ecosophical society described by Le Guin in her novel *Always Coming Home* — an ‘archaeology of the future’ that contains stories, poems, and anthropological commentary. The Kesh language is a model of a worldview where ‘to be rich is the same word as to give, as there is no grammatical provision for a relation of ownership between living beings.’. To speak in Kesh is to affirm the possibility of a different world.
+Kesh Regular is a specially designed typeface for Ursula K. Leguin’s invented Kesh language. The Kesh are a matriarchal, ecosophical society described by Le Guin in her novel *Always Coming Home* — an ‘archaeology of the future’ that contains stories, poems, and anthropological commentary. The Kesh language is a model of a worldview where ‘to be rich is the same word as to give, as there is no grammatical provision for a relation of ownership between living beings.’. To speak in Kesh is to affirm the possibility of a different world.
 
-Kesh Regular was produced for the occasion of the exhibition *A Working Model of the World*, curated by Lizzie Muller and Holly Williams, presented at UNSW Galleries and the Sheila C. Johnson Design Center, Parsons School of Design/the New School, New York in 2017.  The font is an open source resource.
+Kesh Regular was produced for the occasion of the exhibition *A Working Model of the World*, curated by Lizzie Muller and Holly Williams, presented at UNSW Galleries and the Sheila C. Johnson Design Center, Parsons School of Design/the New School, New York in 2017. The font is an open source resource.
 
 GLYPH SET
 --------
