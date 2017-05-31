@@ -1,4 +1,4 @@
-![Kesh](https://github.com/theleagueof/raleway/raw/master/images/raleway-1.jpeg)
+![Kesh](https://github.com/danmilne/Kesh/blob/master/Kesh_specimen_unsw_114_2000.jpg)
 
 Kesh Regular
 ========
