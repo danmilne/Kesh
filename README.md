@@ -13,7 +13,7 @@ GLYPH SET
 --------
 The glyph set of Kesh Regular is based upon hand drawn glyphs in the appendix of Ursula Le Guin's *Always Coming Home*. It comprises a lowercase alphabet, assorted ligatures and punctuation.
 
-[Kesh](https://github.com/danmilne/Kesh/blob/master/Kesh_specimen_unsw_114_2000.jpg)
+![Kesh Glyph Set](https://github.com/danmilne/Kesh/blob/master/Kesh_specimen_unsw_114_2000.jpg)
 
 USING KESH REGULAR
 --------
