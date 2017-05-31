@@ -4,7 +4,7 @@ Kesh Regular
 ========
 _by [Emily Floyd](http://workingmodeloftheworld.com/Emily-Floyd) and [Dan Milne](http://typelab.co)_
 
-Kesh Regular was created by artist Emily Floyd in collaboration with Dan Milne from TypeLab. Works on paper printed by Michael Kempson at Cicada Press, University of New South Wales.
+Kesh Regular was created by artist Emily Floyd in collaboration with Dan Milne from TypeLab. Works on paper printed by Michael Kempson at Cicada Press, University of New South Wales. 
 
 BACKGROUND
 --------
