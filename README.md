@@ -4,7 +4,7 @@ Kesh Regular
 ========
 _by [Emily Floyd](http://workingmodeloftheworld.com/Emily-Floyd) and [Dan Milne](http://typelab.co)_
 
-Kesh Regular was created by artist Emily Floyd in collaboration with Dan Milne from Typelab. The font is a specially designed typeface for Ursula K. Leguin's invented Kesh language. Kesh Regular is an open source font resource. 
+Kesh Regular was created by artist Emily Floyd in collaboration with Dan Milne from TypeLab. The font is a specially designed typeface for Ursula K. Leguin's invented Kesh language. Kesh Regular is an open source font resource. 
 
 Kesh Regular was produced for the occasion of the exhibition *A Working Model of the World*.
 
@@ -19,9 +19,10 @@ USING KESH REGULAR
 --------
 Kesh Regular works best in OpenType-savvy applications with the OpenType Ligature feature switched on to allow automatic substitutions. Kesh words spelled phonetically in the Latin script are converted automatically into the Kesh script.
 
-Substitutions include:
+SUBSTITUTIONS INCLUDE:
 --------
-UPPERCASE TO LOWERCASE  //  
+UPPERCASE TO LOWERCASE    
+——
 The Kesh script is lowercase only however the font has been made so that input text can be upper- or lowercase or a combination. When the Ligature feature is switched on, uppercase letters are automatically converted to lowercase.
 
 LIGATURES AND DOUBLE-LETTERS  //  
